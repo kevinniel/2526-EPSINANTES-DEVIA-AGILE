@@ -1,26 +1,13 @@
-- Equipe 1 (https://github.com/maximeraud/Agile_Kube)
-- Equipe 2 (https://github.com/AnythingLegalConsidered/EPSI-B3-ASRBD-Agile-G2)
-- Equipe 3 (https://github.com/ewanlenogue/Agile_GRP_3)
+- Equipe 1 (LIEN_GITHUB)
+- Equipe 2 (LIEN_GITHUB)
+- Equipe 3 (LIEN_GITHUB)
 
-# 19/03/26 matin
-- Le groupe 1 à posé pas mal de questions et a bien avancé sur le sujet visiblement
-- Le groupe 3 a visiblement commencé aussi son travail mais très discret et pas énormémment d'interaction avec moi.
+# 19/05/26 matin
+- 
 
-# 19/03/26 aprem
-- Début de la séance de l'apres-midi, le groupe 2 m'annonce qu'ils n'ont pas encore commencé car pas tout compris sur le TP, mais me dit à 13h30 qu'il n'a toujours pas vu l'énoncé du TP dans le GIT alors qu'il est dispo depuis 10h le matin. 3 personnes non présentes car en entretien d'embauche pour altenrance l'apres midi. Zaid était présent en début d'aprem sur le teams, mais ne répondait pas à mes questions ou mes appels, pas de nouvelles depuis.
-- Le groupe 1 m'a fait un premier sprint review à sa demande, en me montrant le premier déploiement des premières images via 2 pods créés sur kubernetes. Ils ont aussi réussi à exposer les applications en public avec un certificat SSL pour y accéder en https. Ils sont en certificat auto signé.
-- Alexandre du groupe 1 me fait savoir qu'il ne sera pas présent le 20/03/2026 aprem, mais qu'il a fait ce qu'il fallait pour que son groupe puisse avancer sans lui !
-- le groupe 3 a aussi fait sa première sprint review. La mise en place avance bien, mais il manquait une personne dans l'aprem car entretien embauche alternance (Ariel). La mise en place de kubernetes est bien avancée, il reste la mise en place des API et des Services.
+# 21/05/26 aprem
+- 
 
-# 20/03/26 aprem
+# 22/05/26 aprem
 
-- Alexandre pas là (équipe 1), mais avait bien prévenu hier déjà, et normalement à tout faire pour que son équipe puisse avancer sans lui.
-- Groupe 1 Sprint review : Ils sont parti sur la supervision + agregation de logs. Sprint Goal OK. Backlog : OK. Loki + grafana deploy sur kubernetes. Le dashboard Zabbix est bien en place et déployé et les alertes sont bien levées en cas de souci. La supervision est donc opérationnelle.
-- Groupe 3 Sprint review : Ils ont rencontré des difficultés visiblement. Hier Nginx & kubernetes fonctionnaient. Le but était de mettre en place l'API et d'exposer les services à l'extérieur. Ils se sont marché dessus en faisant des commandes qui n'étaient pas bonnes. Sans réussite pour le dépannage, ils ont supprimé les fichiers de configuration qu'ils avaient fait et les réimplémenter pour en revenir à l'étape où ils en étaient hier en se servant des notes de Abou. Ils ont séparé les ports par worker. Ils ont rencontré plein de problèmes et n'ont donc pas vraiment avancé. Ils n'ont pas été plus loin que là où ils étaient hier. Ils se sont mal organisé et c'est cet élément qui à déclenché les soucis qu'ils ont rencontrés. Ils ont donc fait une resprospective et ils se sont organisé pour essayer de simplifier le prochain sprint. Le SM s'est fixé pour objectif de bien trouver des solutions pour que l'équipe dev puisse tout implémenter la suite sur le prochain sprint.
-- Groupe 2 : Ils galèrent sur la technique, et galère sur les US qu'ils ont réalisé. Ils ont bien documenté la partie Agile, mais ils galèrent sur la technique pure, ce qui fait qu'ils sont "lents" sur la réalisation technique. Ils ont fait 2 issues sur 10 planifiées sur Github. Il leur reste a push aussi les docs à jour sur Github (pas fait à 16h56 pour le moment). Pas de sprint review car pas d'avancement technique suffisant. Manque de connaissances de Ianis sur le sujet pour aider Ojvind qui galère tout seul de son côté visiblement.
-
-# 08/04/2026 matin
-
-- Groupe 1 : Ils ont bien avancé et été efficace sur les tâches et ce qu'ils souhaitaient faire. Ils ont bien mis en place un kanban et ont bien réalisé leur poker planning. Le retex est complet et bien mené. L'autonomie entre les rôles à bien été acceptée et mise en oeuvre. En points négatifs : pas grand chose à été remonté sinon niveau technique parce qu'ils ne savent pas comment créer de tests sur kubernetes. C'est un axe d'amélioration qu'ils ont soulevé. La partie idéation est aussi bien amenée, même s'ils restent - logiquement - sur du spéculatif. Un vrai travail de fond semble avoir été mené avec attention et la présentation réalisée est très bien menée également.
-- Groupe 2 : Le PO à eu un problème de connexion apparemment (il n'est pas là). Un des dev m'a fait un état des lieux de ce qu'ils ont fait. Il semble y avoir une grande distance entre le PO et l'équipe dev de la manière dont ils m'ont présenter les choses. Ils attendent le PO pour confirmer que tout est bon de leur côté. Côté retex ils ont bien aimé le côté flexible où chacun peut avancer a son rythme. Les reviews l'ont bien aidé à discuter de soucis techniques et ils ont pu appréhender un peu une nouvelle technologie.
-- Groupe 3 : Sur le 3eme sprint ils ont réussi à avoir tout le projet de fonctionnel sur une VM avec un projet SF de base fonctionnel monté via un docker compose. Ils ont rendu une api opérationnelle connectée avec kubernetes : rendre la plateforme accessible et sécurisée. Le retex au global est plutôt OK parce que ça leur a permis de faire du concret. Ils espèrent pouvoir l'appliquer proprement en entreprise. Ils ont eu du mal à tout mettre en place mais une fois les rôles tout compris ça a été beaucoup mieux.
+- 

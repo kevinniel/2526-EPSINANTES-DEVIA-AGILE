@@ -4,23 +4,14 @@
 
 Travail en équipe obligatoire. Voici la composition :
 
-## Equipe 1 (https://github.com/maximeraud/Agile_Kube)
-- Kylian
-- Maxime
-- Elios
-- Alexandre
+## Equipe 1 (LIEN_GITHUB)
+- 
 
-## Equipe 2 (https://github.com/AnythingLegalConsidered/EPSI-B3-ASRBD-Agile-G2)
-- Ianis
-- Blaise
-- Zaid
-- Ojvind
+## Equipe 2 (LIEN_GITHUB)
+- 
 
-## Equipe 3 (https://github.com/ewanlenogue/Agile_GRP_3)
-- Ismaël
-- Ewan
-- Florent
-- Ariel
+## Equipe 3 (LIEN_GITHUB)
+- 
 
 # 🎯 Objectif du TP
 
@@ -44,6 +35,7 @@ Votre mission est de déployer une plateforme Kubernetes capable d’héberger :
 
 # 1️⃣ Création des équipes
 
+<!-- TODO -->
 Groupes de 4 à 6 étudiants.
 
 Attribution des rôles :
@@ -65,18 +57,7 @@ Le formateur joue le rôle du client.
 
 ## Questions & réponses :
 
-Questions du 19/03 à 10h41 (groupe 1) :
-
-- Quelles technologies ? Symfony & PHP en back, React en Front
-- Quels ports ? allons-y pour le plus sécurisé tant qu'on peut avoir des certificats SSL
-- Ai-je une IP dédiée ? oui j'en aurais une mais je ne la connais pas pour l'instant
-- Combien d'utilisateurs ? 1.000 en simultané
-- Est-ce que j'aurais besoin d'une partie de logs ? oui -> obligatoire !
-- Besoins spécifiques par rapport aux logs ? non, pas à ma connaissance
-- Besoin de monitoring ? oui si c'est une application avec une interface.
-- Deadline pour la fin du projet ? le 8 Avril à 12h.
-- Est-ce que l'application doit être consultable depuis l'extérieur ou uniquement en interne à une entreprise ? Extérieur !
-- INFO : Pas d'image fournie, il faut prendre des images symfony + react existantes pour faire les tests.
+- 
 
 # 3️⃣ Construction du Product Backlog
 
@@ -90,6 +71,7 @@ Je veux …
 Afin de …
 ```
 
+<!-- TODO -->
 Exemples (Kubernetes)
 
 - En tant qu’admin, je veux déployer un cluster Kubernetes afin d’héberger mes services
