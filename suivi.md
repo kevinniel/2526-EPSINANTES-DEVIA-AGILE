@@ -1,7 +1,7 @@
 - Equipe 1 (https://github.com/ArthurPoncin/agile-devops-tp)
 - Equipe 2 (LIEN_GITHUB)
 - Equipe 3 (LIEN_GITHUB)
-- Equipe 4 (LIEN_GITHUB)
+- Equipe 4 (https://github.com/KillianGascon/Agilit--GestionEvents)
 - Equipe 5 (https://github.com/Sblaaaf/DEVIA-AGILE-GR5)
 
 # 19/05/26 matin

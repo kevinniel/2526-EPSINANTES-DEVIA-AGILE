@@ -35,11 +35,11 @@ Travail en équipe obligatoire. Voici la composition :
 - Loric
 - Jordan
 
-### Equipe 4 (LIEN_GITHUB)
-- Killian
+### Equipe 4 (https://github.com/KillianGascon/Agilit--GestionEvents)
+- Pierre (PO)
+- Killian (SM)
 - Alexandre
 - Fiona
-- Pierre
 - Alexis
 
 ### Equipe 5 (https://github.com/Sblaaaf/DEVIA-AGILE-GR5)
