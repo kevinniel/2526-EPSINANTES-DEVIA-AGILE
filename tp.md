@@ -371,4 +371,4 @@ Format obligatoire :
 
 
 
-# # Pour les sprints suivants : répliquer !
+## Pour les sprints suivants : répliquez !
