@@ -20,20 +20,20 @@ Travail en équipe obligatoire. Voici la composition :
 - Aurélien
 - Arthur
 
-### Equipe 2 (LIEN_GITHUB)
+### Equipe 2 (https://github.com/FatoumataDIABATE/TP_AGILE_DEVOPS_GR2)
+- Quentin (PO)
+- Fatoumata (SM)
 - Habibou
-- Quentin
 - Thibault
-- Fatoumata
 - Anass
 - Youssef
 
-### Equipe 3 (LIEN_GITHUB)
+### Equipe 3 (https://github.com/orgs/HealthAI-Corpo/projects/3)
+- Loric (PO)
+- Jordan (SM)
 - Eliott
 - Timeo
 - Wessim
-- Loric
-- Jordan
 
 ### Equipe 4 (https://github.com/KillianGascon/Agilit--GestionEvents)
 - Pierre (PO)

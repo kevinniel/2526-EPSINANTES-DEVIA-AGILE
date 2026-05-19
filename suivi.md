@@ -1,6 +1,6 @@
 - Equipe 1 (https://github.com/ArthurPoncin/agile-devops-tp)
-- Equipe 2 (LIEN_GITHUB)
-- Equipe 3 (LIEN_GITHUB)
+- Equipe 2 (https://github.com/FatoumataDIABATE/TP_AGILE_DEVOPS_GR2)
+- Equipe 3 (https://github.com/orgs/HealthAI-Corpo/projects/3)
 - Equipe 4 (https://github.com/KillianGascon/Agilit--GestionEvents)
 - Equipe 5 (https://github.com/Sblaaaf/DEVIA-AGILE-GR5)
 
