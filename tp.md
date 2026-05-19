@@ -18,12 +18,15 @@ Travail en équipe obligatoire. Voici la composition :
 - Thomas (abs)
 - Aurélien
 - Arthur
+- Jihad
 
 ### Equipe 2 (LIEN_GITHUB)
 - Habibou
 - Quentin
 - Thibault
 - Fatoumata
+- Anass
+- Youssef
 
 ### Equipe 3 (LIEN_GITHUB)
 - Eliott
@@ -45,11 +48,6 @@ Travail en équipe obligatoire. Voici la composition :
 - Martin
 - Foidjou
 - Théo
-
-### Equipe 6 (LIEN_GITHUB)
-- Anass
-- Youssef
-- 
 
 ## 🎯 Objectif du TP
 
