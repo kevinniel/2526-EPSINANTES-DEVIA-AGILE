@@ -1,4 +1,4 @@
-- Equipe 1 (LIEN_GITHUB)
+- Equipe 1 (https://github.com/ArthurPoncin/agile-devops-tp)
 - Equipe 2 (LIEN_GITHUB)
 - Equipe 3 (LIEN_GITHUB)
 - Equipe 4 (LIEN_GITHUB)

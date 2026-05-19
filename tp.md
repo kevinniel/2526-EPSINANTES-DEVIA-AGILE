@@ -13,12 +13,12 @@ Chaque groupe choisit librement son projet, à condition qu’il soit réalisabl
 
 Travail en équipe obligatoire. Voici la composition :
 
-### Equipe 1 (LIEN_GITHUB)
-- Nathan
+### Equipe 1 (https://github.com/ArthurPoncin/agile-devops-tp)
+- Nathan (PO)
+- Jihad (SM)
 - Thomas (abs)
 - Aurélien
 - Arthur
-- Jihad
 
 ### Equipe 2 (LIEN_GITHUB)
 - Habibou
