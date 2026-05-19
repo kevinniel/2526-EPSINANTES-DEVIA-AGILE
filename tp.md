@@ -42,12 +42,12 @@ Travail en équipe obligatoire. Voici la composition :
 - Pierre
 - Alexis
 
-### Equipe 5 (LIEN_GITHUB)
+### Equipe 5 (https://github.com/Sblaaaf/DEVIA-AGILE-GR5)
+- Renaud (PO)
+- Théo (SM)
 - Matthieu
-- Renaud
 - Martin
 - Foidjou
-- Théo
 
 ## 🎯 Objectif du TP
 
