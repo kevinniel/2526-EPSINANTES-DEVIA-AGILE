@@ -165,6 +165,8 @@ Chaque groupe doit rédiger une courte fiche projet :
 
 ## Construction du Product Backlog
 
+⚠️ tous les backlogs doivent être obligatoirement sur github project ! Attention à bien mettre vos repo en publics.
+
 Chaque équipe doit créer un Product Backlog complet.
 
 📌 User Stories en respectant le format:
