@@ -1,67 +1,173 @@
 # TP mise en pratique
 
-# Equipes
+## Organisation
+
+Durée : **3 demi-journées**  
+Format : **travail en groupe**  
+Objectif : **concevoir, développer et livrer un mini-projet applicatif en respectant Scrum**
+
+Chaque groupe choisit librement son projet, à condition qu’il soit réalisable en 3 demi-journées.
+
+
+## Equipes
 
 Travail en équipe obligatoire. Voici la composition :
 
-## Equipe 1 (LIEN_GITHUB)
+### Equipe 1 (LIEN_GITHUB)
+- Nathan
+- Thomas (abs)
+- Aurélien (abs)
+- Arthur
+
+### Equipe 2 (LIEN_GITHUB)
+- Habibou
+- Quentin
+- Thibault
+- Fatoumata
+
+### Equipe 3 (LIEN_GITHUB)
+- Eliott
+- Timeo
+- Wessim
+- Loric
+- Jordan
+
+### Equipe 4 (LIEN_GITHUB)
+- Killian
+- Alexandre
+- Fiona
+- Pierre
+- Alexis
+
+### Equipe 5 (LIEN_GITHUB)
+- Matthieu
+- Renaud
+- Martin
+- Foidjou
+- Théo
+
+### Equipe 6 (LIEN_GITHUB)
+- Anass
+- Youssef
 - 
 
-## Equipe 2 (LIEN_GITHUB)
-- 
+## 🎯 Objectif du TP
 
-## Equipe 3 (LIEN_GITHUB)
-- 
+Mettre en pratique la méthodologie **Scrum** à travers la réalisation d’un **projet de développement libre**.
 
-# 🎯 Objectif du TP
+Le but principal n’est pas de produire une application parfaite.
 
-Mettre en pratique la méthodologie Scrum à travers un projet Systèmes & Réseaux (Kubernetes).
+Le but est de :
 
-👉 Le but principal n’est pas technique
-👉 Le but est de respecter Scrum + produire les livrables
-
-# 🎬 Contexte
-
-Vous êtes une équipe DevOps.
-
-Votre mission est de déployer une plateforme Kubernetes capable d’héberger :
-
-- une application web
-- une API
-- des services exposés
-
-⚠️ Le client (moi 😇) pourra modifier les besoins à tout moment.
+- respecter Scrum
+- produire des livrables propres
+- travailler en équipe
+- versionner le travail
+- livrer une démo fonctionnelle
+- justifier ses choix techniques
 
 
-# 1️⃣ Création des équipes
+## 🎬 Contexte
 
-<!-- TODO -->
-Groupes de 4 à 6 étudiants.
+Vous êtes une équipe de développement.
 
-Attribution des rôles :
+Votre mission est de concevoir et développer un mini-projet applicatif libre.
 
-🧑‍💼 1 Product Owner
-🧑‍🔧 1 Scrum Master
-👨‍💻 Dev Team (reste du groupe)
+Exemples possibles :
 
+- application de gestion de tâches
+- mini CRM
+- plateforme de réservation
+- application de quiz
+- dashboard météo / finance / statistiques
+- outil de génération de contenu
+- mini e-commerce
+- application de gestion d’événements
+- API REST avec interface front
+- application SaaS simplifiée
+- outil interne pour une entreprise fictive
 
-# 2️⃣ Présentation du besoin
+Le formateur joue le rôle du **client**.
 
-Le formateur joue le rôle du client.
+Le client (moi 😇) pourra :
 
-👉 Les équipes doivent :
+- modifier une priorité
+- ajouter une contrainte
+- demander une nouvelle fonctionnalité
+- refuser une fonctionnalité mal comprise
+- demander une démo à tout moment
 
-- Poser des questions
-- Clarifier les besoins
-- Identifier les premières fonctionnalités
+## Attribution des rôles :
 
-## Questions & réponses :
+Chaque équipe doit attribuer les rôles suivants :
 
-- 
+### Product Owner
 
-# 3️⃣ Construction du Product Backlog
+Responsable de :
 
-Les étudiants doivent produire :
+- comprendre le besoin
+- prioriser les User Stories
+- valider les fonctionnalités
+- présenter l’avancement au client
+
+### Scrum Master
+
+Responsable de :
+
+- organiser les cérémonies Scrum
+- suivre les blocages
+- vérifier que la méthode est respectée
+- maintenir la traçabilité des comptes rendus
+
+### Dev Team
+
+Responsable de :
+
+- concevoir
+- développer
+- tester
+- documenter
+- livrer
+
+Un étudiant peut aider sur plusieurs responsabilités, mais les rôles doivent être clairement identifiés.
+
+## 2. Choix du projet
+
+Chaque équipe choisit un projet libre.
+
+Le projet doit être :
+
+- suffisamment simple pour être commencé rapidement
+- suffisamment riche pour générer plusieurs User Stories
+- démontrable à la fin
+- réalisable en groupe
+- découpable en plusieurs sprints courts
+
+## Fiche projet à produire
+
+Chaque groupe doit rédiger une courte fiche projet :
+
+```md
+# Nom du projet
+
+## Description courte
+
+## Problème résolu
+
+## Utilisateurs cibles
+
+## Fonctionnalités principales envisagées
+
+## Stack technique choisie
+
+## Contraintes identifiées
+
+## Risques techniques
+```
+
+## Construction du Product Backlog
+
+Chaque équipe doit créer un Product Backlog complet.
 
 📌 User Stories en respectant le format:
 
@@ -71,12 +177,13 @@ Je veux …
 Afin de …
 ```
 
-<!-- TODO -->
-Exemples (Kubernetes)
+Exemple :
 
-- En tant qu’admin, je veux déployer un cluster Kubernetes afin d’héberger mes services
-- En tant qu’utilisateur, je veux accéder à une application web exposée
-- En tant qu’admin, je veux scaler les pods afin de gérer la charge
+```
+En tant qu’utilisateur,
+je veux créer un compte,
+afin d’accéder à mon espace personnel.
+```
 
 Chaque User Story doit contenir :
 
@@ -87,22 +194,29 @@ Chaque User Story doit contenir :
 
 Une User Story est prête si :
 
-- Compréhensible
-- Estimable
-- Testable
-- Critères définis
+- elle est compréhensible par toute l’équipe
+- elle est estimable
+- elle est testable
+- les critères d’acceptation sont définis
+- elle est suffisamment petite pour être traitée dans un sprint
+- les dépendances sont identifiées
+- le PO l’a validée
 
 ## 📌 Definition of Done (DoD)
 
 Une tâche est terminée si :
 
-- Fonctionnelle
-- Testée
-- Déployée (Kubernetes)
-- Documentée
+- le développement est terminé
+- le code est versionné sur Git
+- la fonctionnalité est testée
+- les critères d’acceptation sont validés
+- aucune erreur bloquante n’est connue
+- le README ou la documentation est mis à jour si nécessaire
+- la fonctionnalité est démontrable
+- le PO l’a validée
 
 
-# 4️⃣ Estimation (Planning Poker)
+## 4️⃣ Estimation (Planning Poker)
 
 Chaque équipe estime les User Stories avec la suite de Fibonacci :
 
@@ -110,143 +224,146 @@ Chaque équipe estime les User Stories avec la suite de Fibonacci :
 
 Objectif
 
-- Estimer la complexité
-- Aligner l’équipe
+- estimer la complexité
+- discuter les écarts de compréhension
+- aligner l’équipe
+- prioriser correctement
+- éviter les User Stories trop grosses
 
+> Une User Story estimée à 21 ou plus doit être redécoupée.
 
+# Demi-journée 1 — Cadrage + Sprint 1
 
-# 5️⃣ Sprint 1 (0,5 jour)
+## Objectifs
 
-## 🎯 Définition du Sprint Goal
+- constituer les équipes
+- choisir le projet
+- définir le MVP
+- créer le Product Backlog
+- lancer le premier sprint
+- produire une première base technique fonctionnelle
 
-Exemple :
-👉 “Mettre en place un cluster Kubernetes fonctionnel et déployer une première application”
+### Étape 1 — Création des équipes
 
-## 📌 Étapes
+À produire :
 
-### 1. Sprint Planning
+- composition du groupe
+- rôle de chaque membre
+- lien GitHub public
 
-Sélection des User Stories
+### Étape 2 — Cadrage du projet
 
-Création du Sprint Backlog
+À produire :
 
-👉 ⚠️ Garder une trace (capture / outil)
+- fiche projet
+- questions / réponses client
+- périmètre du MVP
+- stack choisie
+- risques identifiés
 
-### 2. Exécution du Sprint
+### Étape 3 — Product Backlog initial
+
+À produire :
+
+- minimum 8 User Stories
+- priorisation
+- critères d’acceptation
+- estimation initiale
+- découpage en sprints
+
+### Étape 4 — Sprint Planning 1
+
+Chaque équipe définit :
+
+- Sprint Goal
+- User Stories sélectionnées
+- Sprint Backlog
+- tâches techniques
+- répartition du travail
+- Exemple de Sprint Goal
+
+Mettre en place la structure du projet et livrer une première fonctionnalité démontrable.
+
+### Étape 5 — Sprint 1
 
 Travaux possibles :
 
-- Installation cluster (minikube / k3s)
-- Déploiement Pod / Deployment
-- Service simple
+- initialisation du projet
+- création du repository Git
+- choix de l’architecture
+- mise en place front / back / base de données
+- première fonctionnalité simple
+- première route API
+- première page fonctionnelle
+- README initial
 
-### 3. Daily Scrum (toutes les heures)
+Étape 6 — Daily Scrum
+
+Même sur une demi-journée, un point rapide est obligatoire.
 
 Chaque membre répond :
 
-- Ce que j’ai fait
-- Ce que je vais faire
-- Mes blocages
+### Daily Scrum — Sprint 1
 
-👉 Compte rendu obligatoire
+#### Membre 1
 
-### 4. Sprint Review (15 minutes avant la fin du sprint)
+- Ce que j’ai fait :
+- Ce que je vais faire :
+- Mes blocages :
 
-Le PO présente le travail réalisé
+#### Membre 2
 
-Démo (si possible)
+- Ce que j’ai fait :
+- Ce que je vais faire :
+- Mes blocages :
 
-👉 Compte rendu obligatoire
+etc...
 
-### 5. Sprint Retrospective
+## Étape 7 — Sprint Review 1
 
-Format :
+À produire :
 
-✅ Keep
-❌ Drop
-🔁 Try
+### Sprint Review 1
 
-# 6️⃣ Sprint 2 (0,5 jour)
+#### Sprint Goal
 
-🎯 Sprint Goal (exemple)
+...
 
-👉 “Rendre les services accessibles depuis l’extérieur”
+#### Fonctionnalités terminées
 
-Travaux possibles :
+- 
+- 
 
-- Service NodePort / LoadBalancer
-- Ingress
-- Tests d’accès
+#### Fonctionnalités non terminées
 
-👉 Même organisation que Sprint 1
+- 
 
-# 6️⃣ Sprint 3 (0,5 jour)
+#### Démo réalisée
 
-🎯 Sprint Goal (exemple)
+Oui / Non
 
-👉 “Structurer et sécuriser l’infrastructure”
+#### Feedback du client
 
-Travaux possibles :
+- 
 
-- ConfigMap / Secret
-- Segmentation logique
-- Gestion des configs
+#### Décisions prises
 
-👉 Même organisation
+- 
 
-# 6️⃣ Sprint 4 (0,5 jour)
+## Étape 8 — Sprint Retrospective 1
 
-🎯 Sprint Goal (exemple)
+Format obligatoire :
 
-👉 “Rendre la plateforme scalable et robuste”
+### Rétrospective Sprint 1
 
-Travaux possibles :
+#### Keep
 
-- Autoscaling (HPA)
-- Résilience
-- Monitoring (optionnel)
+- 
 
-👉 Même organisation
+#### Drop
 
+- 
 
+#### Try
 
-
-
-# 📦 Livrables à rendre
-
-## 📌 Product Backlog complet
-
-- User Stories
-- Critères d’acceptation
-- Priorisation
-
-## 📌 Pour chaque Sprint :
-
-- Estimations (Planning Poker)
-- Sprint Goal
-- Sprint Backlog
-- DoR & DoD
-- Daily Scrum (comptes rendus)
-- Review (compte rendu)
-- Rétrospective
-
-# ‼️ IMPORTANT ‼️
-
-Chaque document doit être versionné sur GIT
-
-Chaque livrable doit avoir une date claire
-
-Le repository GIT sur lequel vous allez tout mettre doit être en public !
-
-# 📧 Rendu
-
-Envoyez moi le lien du repo GIT de votre groupe dans teams, dans la conversation de ce jour.
-Deadline : je mettrais les notes sur les travaux rendus pour le dernier cours, avant l'heure de fin.
-
-# Évaluation
-
-- Qualité des livrables Scrum
-- Respect de la méthodologie
-- Traçabilité (Git)
-- Cohérence des choix techniques
-- Travail d’équipe
+- 
