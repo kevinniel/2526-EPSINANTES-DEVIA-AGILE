@@ -16,7 +16,7 @@ Travail en équipe obligatoire. Voici la composition :
 ### Equipe 1 (LIEN_GITHUB)
 - Nathan
 - Thomas (abs)
-- Aurélien (abs)
+- Aurélien
 - Arthur
 
 ### Equipe 2 (LIEN_GITHUB)
