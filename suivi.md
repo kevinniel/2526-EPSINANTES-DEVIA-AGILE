@@ -12,11 +12,11 @@
 - Equipe 5 : Kanban en place avec les US. Ils sont en train de commencer les dev après la réalisation du product backlog. Démo prévu pour la prochaine fois le temps que les features arrivent.
 
 # 21/05/26 aprem
-- Equipe 1 :
-- Equipe 2 : 
+- Equipe 1 : 
+- Equipe 2 : sont parti sur une appli de gestion d'événement : un côté admin et un côté visiteur. Ils ont dockerisé l'application. Le kanban semble bien mené, les affectations, tickets et estimation de difficulté des tâches sont bien gérées. Pas de blocage pour le moment.
 - Equipe 3 :
 - Equipe 4 :
-- Equipe 5 : démo de leur outil qui permet soit de faire une musique. Ils ont un souci qu'ils ne comprennent pas, qui fait que certains navigateurs et certaines catégories font que les musiques ne se déclenchent pas. Ils ont fait un outil de blind test ooù la musique peut être jouée à l'envers. Ils ont refait des tickets / US pour traiter ces bugs, en les intégrant dans le backlog et le kanban. Musiques via API deezer en random. Le déploiement n'est pas une priorité, mais ça serait cool si ils pouvaient mettre un CI/CD + déploiement.
+- Equipe 5 : démo de leur outil qui permet soit de faire une musique. Ils ont un souci qu'ils ne comprennent pas, qui fait que certains navigateurs et certaines catégories font que les musiques ne se déclenchent pas. Ils ont fait un outil de blind test ooù la musique peut être jouée à l'envers. Ils ont refait des tickets / US pour traiter ces bugs, en les intégrant dans le backlog et le kanban. Musiques via API deezer en random. Le déploiement n'est pas une priorité, mais ça serait cool si ils pouvaient mettre un CI/CD + déploiement. Le suivi kanban n'est pas optimal, il manque pas mal d'infos dans les cards - il faudra les préciser ou y prêter attention.
 
 # 22/05/26 aprem
 - Equipe 1 :
