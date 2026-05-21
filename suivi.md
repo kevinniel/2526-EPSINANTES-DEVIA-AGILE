@@ -15,7 +15,7 @@
 - Equipe 1 : 
 - Equipe 2 : sont parti sur une appli de gestion d'événement : un côté admin et un côté visiteur. Ils ont dockerisé l'application. Le kanban semble bien mené, les affectations, tickets et estimation de difficulté des tâches sont bien gérées. Pas de blocage pour le moment.
 - Equipe 3 :
-- Equipe 4 : Ils ont fait une gestion d'événements persos / groupe / famille / travail + export calendar .ics. Le Kaban est OK dans l'ensemble, mais les tags ne sont pas utilisés pour la partie PP ou autres informations de tri.
+- Equipe 4 : Ils ont fait une gestion d'événements persos / groupe / famille / travail + export calendar .ics. Le Kaban est OK dans l'ensemble, mais les tags ne sont pas utilisés pour la partie PP ou autres informations de tri. Ils ont mis en place des labels que je n'avais pas vu pour la partie PP. Les milestones sont bien en place.
 - Equipe 5 : démo de leur outil qui permet soit de faire une musique. Ils ont un souci qu'ils ne comprennent pas, qui fait que certains navigateurs et certaines catégories font que les musiques ne se déclenchent pas. Ils ont fait un outil de blind test ooù la musique peut être jouée à l'envers. Ils ont refait des tickets / US pour traiter ces bugs, en les intégrant dans le backlog et le kanban. Musiques via API deezer en random. Le déploiement n'est pas une priorité, mais ça serait cool si ils pouvaient mettre un CI/CD + déploiement. Le suivi kanban n'est pas optimal, il manque pas mal d'infos dans les cards - il faudra les préciser ou y prêter attention.
 
 # 22/05/26 aprem
