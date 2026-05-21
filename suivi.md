@@ -12,7 +12,7 @@
 - Equipe 5 : Kanban en place avec les US. Ils sont en train de commencer les dev après la réalisation du product backlog. Démo prévu pour la prochaine fois le temps que les features arrivent.
 
 # 21/05/26 aprem
-- Equipe 1 : 
+- Equipe 1 : Ils ont continué d'avancer sur leur projet. Ils ont mis en place les filtres, les favoris. La génération de la description par IA est bugguée sur la démo du jour. La gestion du scrum dans sa globalité semble plutôt bonne, tout est pris en compte visiblement.
 - Equipe 2 : sont parti sur une appli de gestion d'événement : un côté admin et un côté visiteur. Ils ont dockerisé l'application. Le kanban semble bien mené, les affectations, tickets et estimation de difficulté des tâches sont bien gérées. Pas de blocage pour le moment.
 - Equipe 3 :
 - Equipe 4 : Ils ont fait une gestion d'événements persos / groupe / famille / travail + export calendar .ics. Le Kaban est OK dans l'ensemble, mais les tags ne sont pas utilisés pour la partie PP ou autres informations de tri. Ils ont mis en place des labels que je n'avais pas vu pour la partie PP. Les milestones sont bien en place.
