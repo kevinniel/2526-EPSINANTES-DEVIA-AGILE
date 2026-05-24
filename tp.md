@@ -28,7 +28,7 @@ Travail en équipe obligatoire. Voici la composition :
 - Anass
 - Youssef
 
-### Equipe 3 (https://github.com/orgs/HealthAI-Corpo/projects/3)
+### Equipe 3 (https://github.com/HealthAI-Corpo/healthai-agile)
 - Loric (PO)
 - Jordan (SM)
 - Eliott
